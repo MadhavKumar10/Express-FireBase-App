@@ -22,7 +22,7 @@ Heroku account (for deployment)
 
 Setup
 1. Clone the Repository
-git clone https://github.com/your-username/express-firebase-app.git
+git clone https://github.com/MadhavKumar10/Airbnb-Clone.git
 cd express-firebase-app
 
 3. Install Dependencies
